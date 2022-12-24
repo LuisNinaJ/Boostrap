@@ -1,0 +1,21 @@
+.header-img{
+    width: 80px;
+}
+.contact-img{
+    width: 400px;
+}
+
+.btn-principal{
+    border: 2px solid #8011f2;
+    border-radius: 15px;
+    background-color: #8011f2;
+    color: white;
+    transition: 0.2 ease-in;
+}
+
+.btn-principal:hover{
+    border: 2px solid #8011f2;
+    color: #8011f2;
+    background-color: white;
+
+}
